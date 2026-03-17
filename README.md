@@ -134,7 +134,7 @@ The script includes a built-in data simulator so you can run the project immedia
 
 ## 👤 Author
 
-**Aladdin**
+**Ayesha**
 B.Sc. Information Technology — Maharashtra, India
 Aspiring AI Engineer
 
